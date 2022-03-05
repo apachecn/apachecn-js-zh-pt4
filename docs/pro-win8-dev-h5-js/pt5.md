@@ -1,5 +1,1 @@
-![Images](img/3square.jpg)
-
-## P A R T 5
-
-## 销售应用
+## 第五部分：销售应用
