@@ -1,6 +1,6 @@
-# JavaScript 游戏构建指南
+# JavaScript 现代 Web 开发框架教程
 
-> 原文：[Building JavaScript games](https://zh.book4you.org/book/3426905/60f929)
+> 原文：[JavaScript Frameworks for Modern Web Dev](https://zh.book4you.org/book/11471332/bba2de)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

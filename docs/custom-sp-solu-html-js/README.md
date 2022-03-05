@@ -1,6 +1,6 @@
-# JavaScript 游戏构建指南
+# 使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案
 
-> 原文：[Building JavaScript games](https://zh.book4you.org/book/3426905/60f929)
+> 原文：[Custom SharePoint solutions with HTML and JavaScript for SharePoint 2013](https://zh.book4you.org/book/5819854/00cee7)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

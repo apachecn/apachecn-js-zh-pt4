@@ -1,6 +1,6 @@
-# JavaScript 游戏构建指南
+# JavaScript 程序员参考
 
-> 原文：[Building JavaScript games](https://zh.book4you.org/book/3426905/60f929)
+> 原文：[JavaScript Programmer's Reference](https://zh.book4you.org/book/2159743/69fbdf)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
