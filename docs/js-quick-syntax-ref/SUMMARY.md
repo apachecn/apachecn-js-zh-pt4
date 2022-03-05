@@ -1,3 +1,4 @@
++   [JavaScript 快速语法参考](README.md)
 +   [一、使用 JavaScript](01.md)
 +   [二、变量](02.md)
 +   [三、运算符](03.md)
@@ -13,4 +14,3 @@
 +   [十三、错误处理](13.md)
 +   [十四、AJAX](14.md)
 +   [十五、框架](15.md)
-+   [JavaScript 快速语法参考](README.md)

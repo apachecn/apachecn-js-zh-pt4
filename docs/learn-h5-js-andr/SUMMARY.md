@@ -1,3 +1,4 @@
++   [面向安卓的 HTML5 和 JavaScript 学习手册](README.md)
 +   [零、简介](00.md)
 +   [一、入门指南](01.md)
 +   [二、为 Android 创建移动 Web 应用](02.md)
@@ -9,4 +10,3 @@
 +   [八、JavaScript：模型、视图和控制器](08.md)
 +   [九、测试和部署您的移动 Web 应用](09.md)
 +   [十、附录 A](10.md)
-+   [面向安卓的 HTML5 和 JavaScript 学习手册](README.md)

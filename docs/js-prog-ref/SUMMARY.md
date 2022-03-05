@@ -1,3 +1,4 @@
++   [JavaScript 程序员参考](README.md)
 +   [零、简介](0.md)
 +   [一、JavaScript 基础知识](1.md)
 +   [二、JavaScript 螺母和螺丝](2.md)
@@ -7,4 +8,3 @@
 +   [六、JavaScript 控制语句参考](6.md)
 +   [七、JavaScript 运算符参考](7.md)
 +   [八、DOM 参考](8.md)
-+   [JavaScript 程序员参考](README.md)

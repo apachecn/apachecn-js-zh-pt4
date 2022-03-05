@@ -1,3 +1,4 @@
++   [JavaScript 现代 Web 开发框架教程](README.md)
 +   [一、Bower](01.md)
 +   [二、Grunt](02.md)
 +   [三、Yeoman](03.md)
@@ -14,4 +15,3 @@
 +   [十四、Q](14.md)
 +   [十五、Async.js](15.md)
 +   [十六、Underscore 和 Lodash](16.md)
-+   [JavaScript 现代 Web 开发框架教程](README.md)
