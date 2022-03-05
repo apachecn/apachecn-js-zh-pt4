@@ -1,4 +1,4 @@
-![Images](images/3square.jpg)
+![Images](img/3square.jpg)
 
 ## P A R T 5
 

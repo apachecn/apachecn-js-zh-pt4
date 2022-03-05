@@ -1,4 +1,4 @@
-![images](images/3squ.jpg)
+![images](img/3squ.jpg)
 
 ## P A R T 2
 
