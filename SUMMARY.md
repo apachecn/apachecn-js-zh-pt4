@@ -37,7 +37,7 @@
     +   [第六部分：进入广阔的天地](docs/build-js-game/pt6.md)
         +   [三十、制作游戏](docs/build-js-game/30.md)
         +   [三十一、发布游戏](docs/build-js-game/31.md)
-+   [使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案](docs/custom-sp-solu-html-js/README.md)'
++   [使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案](docs/custom-sp-solu-html-js/README.md)
     +   [一、设置您的环境](docs/custom-sp-solu-html-js/1.md)
     +   [二、SharePoint 前端解决方案简介](docs/custom-sp-solu-html-js/2.md)
     +   [三、内容编辑器和脚本编辑器 Web 部件](docs/custom-sp-solu-html-js/3.md)
