@@ -1,3 +1,4 @@
++   [JavaScript Web 应用高级教程](README.md)
 +   [一、做好准备](01.md)
 +   [二、入门指南](02.md)
 +   [三、添加视图模型](03.md)
@@ -7,4 +8,3 @@
 +   [七、创建响应式 Web 应用](07.md)
 +   [八、创建移动 Web 应用](08.md)
 +   [九、编写更好的 JavaScript](09.md)
-+   [JavaScript Web 应用高级教程](README.md)
