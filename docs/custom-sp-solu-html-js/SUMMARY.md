@@ -7,3 +7,4 @@
 +   [七、使用 SharePoint 的内置 JavaScript 函数和属性](7.md)
 +   [八、使用 JavaScript 对象模型](8.md)
 +   [九、使用 REST API](9.md)
++   [使用 HTML 和 JavaScript 为 SharePoint 2013 定制解决方案](README.md)

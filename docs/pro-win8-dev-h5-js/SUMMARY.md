@@ -36,3 +36,4 @@
 +   [第三部分：UI 开发](pt3.md)
 +   [第四部分：平台集成](pt4.md)
 +   [第五部分：销售应用](pt5.md)
++   [HTML5 和 JavaScript 的 Windows8 开发高级教程](README.md)
